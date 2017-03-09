@@ -24,9 +24,15 @@ USAGE:
 ######################################
 1. Make sure you have Python 2.7 installed
    on your system.
-2. Run the Setup.bat file in the folder to
-   setup necessary dependencies.
-3. After this you can follow the instructions
+2. Download and install ffmpeg to your system
+   (either 32 bit or 6 4bit).
+3. Copy the 3 files namely:
+   a) ffmpeg
+   b) ffprobe
+   c) ffplay 
+   from the bin directory into C:\Python27\Scripts
+4. Run the Setup file to setup necessary dependencies.
+5. After this you can follow the instructions
    below for downloading music. Enjoy :)
 ######################################
 
