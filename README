@@ -19,8 +19,19 @@ It DOES require your account passwd.
 
 USAGE:
 
+######################################
+##THE FOLLOWING IS ONLY FOR WINDOWS###
+######################################
+1. Make sure you have Python 2.7 installed
+   on your system.
+2. Run the Setup.bat file in the folder to
+   setup necessary dependencies.
+3. After this you can follow the instructions
+   below for downloading music. Enjoy :)
+######################################
+
 1. Open up a spotify list of songs in
-   the application.
+   the Sppotify application.
 2. Open up MS Excel / LibreOffice Calc
    in another window.
 3. While focused in the Spotify window, 
@@ -39,6 +50,7 @@ USAGE:
 6. Launch the script (From Terminal or cmd).
 7. Enter the *filename* you used in Step 5.
 8. Let the Script do its work.
+   Note: DONOT add the .xlsx extension to it.
 9. Once all songs have been downloaded, it
    will output a message. Then, the program
    can be safely terminated.
