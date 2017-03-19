@@ -11,6 +11,8 @@ upgraded-
 3. youtube-dl (For stripping the mp3 off YouTube)
 4. bs4 - BeautifulSoup(For clawing the webpage)
 '
+#Root user access needed for pip
+sudo su
 
 #Installing Pip and upgrading
 sudo apt-get install python-setuptools python-dev build-essential -y
@@ -25,6 +27,9 @@ pip install youtube-dl
 
 #Installing BeautifulSoup
 pip install bs4
+
+#Installing ffmpeg
+sudo apt-get install ffmpeg
 
 clear
 echo "Successfully installed everything..."
